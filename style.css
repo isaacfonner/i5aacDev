@@ -5,6 +5,8 @@ h1 {
 p {
   color: red;
  background-color: skyblue;
+	font-size:32px;
+	font-weight: bold;
 }
  body {
   background-color: skyblue;
