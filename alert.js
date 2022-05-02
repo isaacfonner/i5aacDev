@@ -20,6 +20,7 @@ while(response != password && !error){
 }
  if(!error){
 alert("Correct Password")
+  window.location.href("https://mathiasgredal.github.io/Slope-Game/")
    correct = true;
  }
 }
