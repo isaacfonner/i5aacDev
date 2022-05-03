@@ -11,9 +11,9 @@ var correct = false;
 
  if(entryCount < entryLimit){
  response = window.prompt("Enter Code!"); 
-  if(response = password ) {
+  if(response == password ) {
    alert("Correct Password")
-  window.location.href("https://mathiasgredal.github.io/Slope-Game/")
+  location.href = https://mathiasgredal.github.io/Slope-Game/
    correct = true;
   } else {
   
